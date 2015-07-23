@@ -1,0 +1,25 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Emmet",
+		"FileBrowser",
+		"Git",
+		"GitGutter",
+		"Inc-Dec-Value",
+		"MarkdownEditing",
+		"Material Theme",
+		"Modific",
+		"Package Control",
+		"PlainNotes",
+		"PlainTasks",
+		"Sass",
+		"SideBarEnhancements",
+		"Theme - Soda",
+		"Wrap Plus"
+	]
+}
