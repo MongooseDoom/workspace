@@ -15,6 +15,7 @@
 alias edit_hosts='code /etc/hosts'
 alias edit_aliases="code ~/.oh-my-zsh/custom/my_aliases.zsh"
 # for path
+alias edit_php='code /usr/local/etc/php/8.3/php.ini'
 alias edit_path='code ~/.oh-my-zsh/custom/my_path.zsh'
 alias edit_zsh='code ~/.zshrc'
 
