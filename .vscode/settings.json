@@ -1,7 +1,8 @@
 {
     "workbench.colorTheme": "Night Owl",
-    "editor.fontFamily": "'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
-    "editor.fontSize": 14,
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "'Dank Mono', 'Jetbrains Mono', Consolas, monospace",
+    "editor.fontSize": 12,
     "editor.fontLigatures": true,
     "editor.wordWrap": "on",
     "editor.tabSize": 2,
