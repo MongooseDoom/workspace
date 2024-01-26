@@ -6,7 +6,8 @@
         "stylelint.vscode-stylelint",
         "sdras.night-owl",
         "dbaeumer.vscode-eslint",
-        "eamodio.gitlens"
-
+        "eamodio.gitlens",
+        "neptunedesign.vs-sequential-number",
+        "ms-vscode.atom-keybindings"
     ]
 }

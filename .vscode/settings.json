@@ -4,5 +4,13 @@
     "editor.fontSize": 14,
     "editor.fontLigatures": true,
     "editor.wordWrap": "on",
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSaveMode": "modifications",
+    "prettier.configPath": ".prettierrc",
+    "css.validate": false,
+    "scss.validate": false,
+    "stylelint.config": null,
+    "stylelint.validate": ["scss"],
+    "editor.bracketPairColorization.enabled": true
 }
