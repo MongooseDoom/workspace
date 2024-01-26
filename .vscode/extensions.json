@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "EditorConfig.EditorConfig",
+        "esbenp.prettier-vscode",
+        "bajdzis.vscode-twig-pack",
+        "stylelint.vscode-stylelint",
+        "sdras.night-owl",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens"
+
+    ]
+}
