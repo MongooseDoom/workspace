@@ -13,5 +13,6 @@
     "scss.validate": false,
     "stylelint.config": null,
     "stylelint.validate": ["scss"],
-    "editor.bracketPairColorization.enabled": true
+    "editor.bracketPairColorization.enabled": true,
+    "editor.rulers": [80]
 }
