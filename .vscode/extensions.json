@@ -8,6 +8,7 @@
         "dbaeumer.vscode-eslint",
         "eamodio.gitlens",
         "neptunedesign.vs-sequential-number",
-        "ms-vscode.atom-keybindings"
+        "ms-vscode.atom-keybindings",
+        "lllllllqw.jsdoc"
     ]
 }
