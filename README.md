@@ -10,3 +10,6 @@ My preferences and zsh theme
 - [ ] [Discord](https://discord.com/download)
 - [ ] [Filezilla](https://filezilla-project.org/)
 - [ ] [Polypane](https://polypane.app/)
+- [ ] [Homebrew](https://brew.sh/)
+- [ ] [Docker](https://www.docker.com/)
+- [ ] [Sitespeed](https://www.sitespeed.io/)
