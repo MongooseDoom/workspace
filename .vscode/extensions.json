@@ -9,6 +9,10 @@
         "eamodio.gitlens",
         "neptunedesign.vs-sequential-number",
         "ms-vscode.atom-keybindings",
-        "lllllllqw.jsdoc"
+        "lllllllqw.jsdoc",
+        "Gruntfuggly.todo-tree",
+        "Vue.vscode-typescript-vue-plugin",
+        "Vue.volar",
+        "redhat.vscode-xml"
     ]
 }
